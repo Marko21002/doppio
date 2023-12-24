@@ -13,10 +13,6 @@
   ```
 */
 
-function classNames(...classes) {
-  return classes.filter(Boolean).join(" ");
-}
-
 export default function Feature() {
   return (
     <div className="bg-emerald-800 text-white">

@@ -5,12 +5,12 @@ export default function Hero() {
         <div className="px-6 pb-24 pt-10 sm:pb-32 lg:col-span-7 lg:px-0 lg:pb-56 lg:pt-48 xl:col-span-6">
           <div className="mx-auto max-w-2xl lg:mx-0">
             <div className="hidden sm:mt-32 sm:flex lg:mt-16"></div>
-            <h1 className="font-extra mt-24 text-4xl  racking-tight text-white sm:mt-10 sm:text-6xl">
+            <h1 className="mt-24 text-4xl  racking-tight text-white sm:mt-10 sm:text-6xl">
               Cafe Doppio
             </h1>
-            <p className="mt-6 text-lg leading-8 text-gray-100 font-boeck">
-              "Sip. Savor. Repeat. Treat yourself to the perfect blend of coffee
-              and croissants. Your daily dose of joy starts here."
+            <p className="mt-6 text-lg leading-8 text-gray-100">
+              Sip. Savor. Repeat. Treat yourself to the perfect blend of coffee
+              and croissants. Your daily dose of joy starts here.
             </p>
           </div>
         </div>
